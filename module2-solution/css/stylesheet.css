@@ -28,12 +28,15 @@ div {
 div.title {
     border: thin solid black;
     padding: 0px;
+    margin: 0;
     text-align: center;
     font-size: larger;
     background-color: aqua;
     width: 125px;
     position: relative;
     float: right;
+    right: -1px;
+    top: -1px;
 }
 
 div.title1 {
